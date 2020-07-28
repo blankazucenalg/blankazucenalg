@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I'm Blanca Azucena, I build software (mostly web applications) based in MEAN Stack, Vuejs, Python, and SQL. 
 
 <!--
 **blankazucenalg/blankazucenalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
