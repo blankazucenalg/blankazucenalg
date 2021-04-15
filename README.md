@@ -1,4 +1,8 @@
-Hi, I'm Blanca Azucena, I build software (mostly web applications) based in MEAN Stack, Vuejs, Python, and SQL. 
+Hi, I'm Blanca Azucena.
+
+I'm a Software Engineer. I like building web solutions to spread knowledge and simplify stuff. I love music and travelling 💚💜🧡
+
+![Azu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blankazucenalg&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **blankazucenalg/blankazucenalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
